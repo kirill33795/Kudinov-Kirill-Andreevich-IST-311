@@ -216,4 +216,4 @@ for i, idx in enumerate(random_indices):
 
 plt.suptitle("Результаты распознавания (Предсказание vs Реальность)")
 plt.tight_layout()
-plt.show()
+plt.show()# lab 6
